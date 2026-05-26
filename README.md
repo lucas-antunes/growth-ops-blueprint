@@ -133,9 +133,9 @@ Suites de skills da comunidade que complementam bem este sistema:
 
 | Suite | O que faz | Repositório |
 |-------|-----------|-------------|
-| **claude-seo** | SEO completo — audit, técnico, conteúdo, schema, sitemap, GEO, programático. Inclui `/ads-meta` e `/ads-google` (audits com scoring ponderado). | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) |
-| **ui-ux-pro-max** | Skills de design, prototipagem e análise de UX para Claude Code. | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
-| **superpowers** | Coleção de skills de produtividade e automação para operadores solo. | [obra/superpowers](https://github.com/obra/superpowers) |
+| **claude-seo** | SEO completo — audit técnico, conteúdo, schema, sitemap, GEO, programático. Inclui `/ads-meta` e `/ads-google` (audits com scoring ponderado por categoria). | [AgriciDaniel](https://github.com/AgriciDaniel/AgriciDaniel) |
+| **ui-ux-pro-max** | Design intelligence para Claude Code: 161 regras de raciocínio, 67 estilos UI, geração de design systems completos para qualquer plataforma ou framework. | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+| **superpowers** | Metodologia de desenvolvimento com agentes: spec → plano → subagent-driven development com TDD real. Disponível no marketplace oficial do Claude Code. | [obra/superpowers](https://github.com/obra/superpowers) |
 
 ## Créditos
 
