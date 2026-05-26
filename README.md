@@ -127,11 +127,19 @@ O protocolo de governança, o decisions-log e a estrutura de skills são idênti
 
 ---
 
+## Skills Recomendadas
+
+Suites de skills da comunidade que complementam bem este sistema:
+
+| Suite | O que faz | Repositório |
+|-------|-----------|-------------|
+| **claude-seo** | SEO completo — audit, técnico, conteúdo, schema, sitemap, GEO, programático. Inclui `/ads-meta` e `/ads-google` (audits com scoring ponderado). | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) |
+| **ui-ux-pro-max** | Skills de design, prototipagem e análise de UX para Claude Code. | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+| **superpowers** | Coleção de skills de produtividade e automação para operadores solo. | [obra/superpowers](https://github.com/obra/superpowers) |
+
 ## Créditos
 
-- **Sistema original e arquitetura:** Lucas Antunes
-- **Skills de SEO:** Daniel Agrici — [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
-- **Skills de audit Meta/Google Ads:** Daniel Agrici
+**Sistema original e arquitetura:** Lucas Antunes
 
 ---
 
