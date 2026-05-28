@@ -16,7 +16,8 @@ Cobre 5 camadas:
 | **CLAUDE.md hierárquico** | Contexto permanente da empresa, carregado automaticamente |
 | **Skills** | Slash commands versionados que o Claude executa de forma consistente |
 | **Governança** | Protocolo de 3 tiers para escrita em plataformas de ads sem conflito |
-| **Memória** | Decisions-log e baselines que acumulam conhecimento entre sessões |
+| **Memória** | 5 arquivos que acumulam conhecimento entre sessões: decisions-log, baselines, ads-analysis, experiments, MEMORY |
+| **Agentes** | Perfis de Data Analyst e Ads Manager configuráveis para a sua empresa |
 | **Guia de adaptação** | Configuração por tipo de negócio (e-commerce, SaaS, B2B, infoproduto) |
 
 ---
@@ -43,7 +44,14 @@ governance/
 
 memory/
 ├── decisions-log.md                   ← rastreador de recomendações
-└── baselines.md                       ← benchmarks por mercado
+├── baselines.md                       ← benchmarks por mercado
+├── ads-analysis.md                    ← padrões e anomalias acumulados de ads
+├── experiments.md                     ← experimentos e decisões de escala
+└── MEMORY.md                          ← contexto cross-session do negócio
+
+agents/
+├── data-analyst.md                    ← perfil do agente analista de dados
+└── ads-manager.md                     ← perfil do agente de gestão de ads
 ```
 
 ---
